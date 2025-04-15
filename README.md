@@ -40,7 +40,7 @@
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif" alt="gif1" />
   <img src="https://anlucas.neocities.org/clanbase.gif" alt="gif2" />
-  <a href="https://accounts.spotify.com/logout">
+  <a href="https://github.com/logout">
     <img src="https://anlucas.neocities.org/no.gif" alt="gif3" />
   </a>
   <img src="https://anlucas.neocities.org/lol.gif" alt="gif4" />
