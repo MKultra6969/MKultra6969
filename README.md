@@ -36,9 +36,21 @@
                            ║                                                                         ║
                            +═════════════════════════════════════════════════════════════════════════+
 ```
-<img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif"/> <img src="https://anlucas.neocities.org/clanbase.gif"/> <img src="https://anlucas.neocities.org/no.gif"/><img src="https://anlucas.neocities.org/lol.gif"/><img src="https://anlucas.neocities.org/javass.gif"/> <img src="https://anlucas.neocities.org/aniquake.gif"/> <img src="https://cyber.dabamos.de/88x31/aviation1.gif"/> <img src="https://cyber.dabamos.de/88x31/dream_coloured.gif"/> <img src="https://cyber.dabamos.de/88x31/vampireunlimited.gif"/> <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif"/>
 
-
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+  <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif" alt="gif1" />
+  <img src="https://anlucas.neocities.org/clanbase.gif" alt="gif2" />
+  <a href="https://accounts.spotify.com/logout">
+    <img src="https://anlucas.neocities.org/no.gif" alt="gif3" />
+  </a>
+  <img src="https://anlucas.neocities.org/lol.gif" alt="gif4" />
+  <img src="https://anlucas.neocities.org/javass.gif" alt="gif5" />
+  <img src="https://anlucas.neocities.org/aniquake.gif" alt="gif6" />
+  <img src="https://cyber.dabamos.de/88x31/aviation1.gif" alt="gif7" />
+  <img src="https://cyber.dabamos.de/88x31/dream_coloured.gif" alt="gif8" />
+  <img src="https://cyber.dabamos.de/88x31/vampireunlimited.gif" alt="gif9" />
+  <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif" alt="gif10" />
+</div>
 
 * ✉️  More info: [https://t.me/ffs\_tmp\_info](https://t.me/ffs_tmp_info)
 
