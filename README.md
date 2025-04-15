@@ -36,6 +36,10 @@
                            ║                                                                         ║
                            +═════════════════════════════════════════════════════════════════════════+
 ```
+<img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif"/> <img src="https://anlucas.neocities.org/clanbase.gif"/> <img src="https://anlucas.neocities.org/no.gif"/><img src="https://anlucas.neocities.org/lol.gif"/><img src="https://anlucas.neocities.org/javass.gif"/><img src="https://anlucas.neocities.org/powered-by-debian.gif"/> <img src="https://anlucas.neocities.org/aniquake.gif"/> <img src="https://cyber.dabamos.de/88x31/aviation1.gif"/> <img src="https://cyber.dabamos.de/88x31/dream_coloured.gif"/> <img src="https://cyber.dabamos.de/88x31/vampireunlimited.gif"/> <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif"/>
+
+
+
 * ✉️  More info: [https://t.me/ffs\_tmp\_info](https://t.me/ffs_tmp_info)
 
 
