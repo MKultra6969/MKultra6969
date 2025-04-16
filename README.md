@@ -18,41 +18,12 @@
                            ║ ├──│» Nicknames: mkultra69 / mkultra / MKultra69 / MKultra              ║
                            ║ │     ├──│» Also: sudo69                                                ║
                            ║ │                                                                       ║
-                           ║ ├──│» Schoolkid, scriptkiddie, shitcoder, internet hero,                ║
-                           ║ │     ├──│» couch expert, main cocksucker in the chat.                  ║
-                           ║ │                                                                       ║
-                           ║ ├──│» Unfortunately, from Russia.                                       ║
-                           ║ │     ├──│» Currently in Hell.                                          ║
-                           ║ │                                                                       ║
-                           ║ ├──│» Gender: PGM Hécate II                                             ║
-                           ║ │     ├──│» Heavy anti-materiel .50 caliber sniper rifle.               ║
-                           ║ │                                                                       ║
-                           ║ ├──│» Sosal?                                                            ║
-                           ║ │     ├──│» Da                                                          ║
-                           ║ │                                                                       ║
                            ║ ├──│» ENG/RUS                                                           ║
-                           ║ │                                                                       ║
-                           ║ ├──│» I fckn love use 'WTFPL' License in my prjcts                      ║
                            ║                                                                         ║
                            +═════════════════════════════════════════════════════════════════════════+
 ```
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif" alt="gif1" />
-  <img src="https://anlucas.neocities.org/clanbase.gif" alt="gif2" />
-  <a href="https://github.com/logout">
-    <img src="https://anlucas.neocities.org/no.gif" alt="gif3" />
-  </a>
-  <img src="https://anlucas.neocities.org/lol.gif" alt="gif4" />
-  <img src="https://anlucas.neocities.org/javass.gif" alt="gif5" />
-  <img src="https://anlucas.neocities.org/aniquake.gif" alt="gif6" />
-  <img src="https://cyber.dabamos.de/88x31/aviation1.gif" alt="gif7" />
-  <img src="https://cyber.dabamos.de/88x31/dream_coloured.gif" alt="gif8" />
-  <img src="https://cyber.dabamos.de/88x31/vampireunlimited.gif" alt="gif9" />
-  <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif" alt="gif10" />
-</div>
 
-* ✉️  More info: [https://t.me/ffs\_tmp\_info](https://t.me/ffs_tmp_info)
 
 
 - 🔭 Currently working on **MK_OHLCV_DataBot**
@@ -92,6 +63,4 @@
 <div width="100%" align="center"><a href="https://github.com/mkultra6969/AnyDesk-reset" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mkultra6969&repo=AnyDesk-reset&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mkultra6969/DanmakuChat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mkultra6969&repo=DanmakuChat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-
-![tenor](https://github.com/user-attachments/assets/1e087a86-e82a-423c-aeb2-1f69de91a43d)
 
