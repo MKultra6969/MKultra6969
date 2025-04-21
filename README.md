@@ -52,7 +52,7 @@
 * ✉️  More info: [https://t.me/ffs\_tmp\_info](https://t.me/ffs_tmp_info)
 
 
-- 🔭 Currently working on [**MK_OHLCV**](https://github.com/Project-MKDELTA/MK_OHLCV)
+- 🔭 Currently working on [**MK_OHLCV**](https://github.com/Project-MKDELTA/MK_OHLCV) and **MKxPLV_bot**
 
 ### Skills
 
