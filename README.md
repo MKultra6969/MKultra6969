@@ -49,10 +49,9 @@
   <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif" alt="gif10" />
 </div>
 
-* ✉️  More info: [https://t.me/ffs\_tmp\_info](https://t.me/ffs_tmp_info)
+* ✉️  More info: [https://t.me/mk\_tmp\_info](https://t.me/ffs_tmp_info)
 
-- 🔭 Currently working on [**MK_OHLCV**](https://github.com/Project-MKDELTA/MK_OHLCV) | **MKxPLV_bot** | **MKxray**
-- Already launched projects: [**MK_OHLCV**](https://t.me/mk_OHLCV_bot) 
+- 🔭 Currently working on many prjects
 
 ### Skills
 
