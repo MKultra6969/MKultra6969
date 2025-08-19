@@ -49,7 +49,7 @@
   <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif" alt="gif10" />
 </div>
 
-* ✉️  More info: [https://t.me/mk\_tmp\_info](https://t.me/ffs_tmp_info)
+* ✉️  More info: [https://t.me/mk\_tmp\_info](https://t.me/mk_tmp_info)
 
 - 🔭 Currently working on many prjects
 
@@ -71,7 +71,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
   </a>
-  <a href="https://t.me/ffs_tmp_info" target="_blank" rel="noreferrer">
+  <a href="https://t.me/mk_tmp_info" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
