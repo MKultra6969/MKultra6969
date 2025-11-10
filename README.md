@@ -85,7 +85,7 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/MKultra6969/4chan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mkultra6969&repo=4chan&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mkultra6969/DanmakuChat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mkultra6969&repo=DanmakuChat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/MKultra6969/AnyDesk-reset" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mkultra6969&repo=AnyDesk-reset&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MKultra6969/MKfakepayment" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mkultra6969&repo=MKfakepayment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 ![tenor](https://github.com/user-attachments/assets/1e087a86-e82a-423c-aeb2-1f69de91a43d)
