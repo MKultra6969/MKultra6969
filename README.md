@@ -136,7 +136,7 @@
   <a href="https://t.me/mkultra6969" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
-  <a href="@mkultra69:matrix.org" target="_blank">
+  <a href="https://matrix.to/#/@mkultra69:matrix.org" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="matrix logo"  />
   </a>
 </div>
